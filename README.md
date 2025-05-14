@@ -1,6 +1,6 @@
 ## act8-android
 <img src="assets/screenshot/one.png" height="500em" />&nbsp;<img src="assets/screenshot/two.png" height="500em" />
-A new Flutter project created with FlutLab - https://flutlab.io
+- A new Flutter project created with FlutLab - https://flutlab.io
 
 ## Getting Started
 
