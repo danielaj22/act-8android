@@ -1,22 +1,22 @@
-## Flutter e-commerce Application UI Design and Animation
-
-A part of #flutter100daysofcode. Let's create a beautiful and animated e-commerce UI with Flutter.
-
-[Watch it on Youtube](https://youtu.be/_10i7_xsthM)
-
-
-## Previous Designs
-[Checkout my Youtube channel](https://youtube.com/afgprogrammer)
-
-<br>
-
-## Development Setup
-Clone the repository and run the following commands:
-```
-flutter pub get
-flutter run
-```
-
-## fotitoos
-
+## act8-android
 <img src="assets/screenshot/one.png" height="500em" />&nbsp;<img src="assets/screenshot/two.png" height="500em" />
+A new Flutter project created with FlutLab - https://flutlab.io
+
+## Getting Started
+
+A few resources to get you started if this is your first Flutter project:
+
+- https://flutter.dev/docs/get-started/codelab
+- https://flutter.dev/docs/cookbook
+
+For help getting started with Flutter, view our
+https://flutter.dev/docs, which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
+
+## Getting Started: FlutLab - Flutter Online IDE
+
+- How to use FlutLab? Please, view our https://flutlab.io/docs
+- Join the discussion and conversation on https://flutlab.io/residents
+
+
+
